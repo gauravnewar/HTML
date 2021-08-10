@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.UltimateTitle{
+  overflow: hidden;
+  width: 100%;
+  overflow: auto;
+  
+}
+.UltimateTitle a{
+  float: left;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  width: 10%; 
+  text-align: center;
+
+}
+.UltimateTitle a.Utimate{
+  color: #e30b28;
+  font-family: cursive;
+  font-size: 20px;
+width: 15%;
+}
+.UltimateTitle a.longTitle{
+  width: 20%
+
+}
